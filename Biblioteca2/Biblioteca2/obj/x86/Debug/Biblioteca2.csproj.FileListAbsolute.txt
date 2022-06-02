@@ -1,0 +1,84 @@
+c:\users\admin\documents\visual studio 2010\Projects\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\Biblioteca2\Biblioteca2\bin\Debug\Biblioteca2.exe
+c:\users\admin\documents\visual studio 2010\Projects\Biblioteca2\Biblioteca2\bin\Debug\Biblioteca2.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.exe
+c:\users\admin\documents\visual studio 2010\Projects\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.frmPrincipal.resources
+C:\Users\admin\documents\visual studio 2010\Projects\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.Form2.resources
+C:\Users\admin\documents\visual studio 2010\Projects\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.csproj.ResolveComReference.cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Biblioteca2\Biblioteca2\bin\Debug\itextsharp.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Biblioteca2\Biblioteca2\bin\Debug\itextsharp.pdfa.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Biblioteca2\Biblioteca2\bin\Debug\itextsharp.xtra.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Biblioteca2\Biblioteca2\bin\Debug\itextsharp.xml
+C:\Users\LENOVO\Desktop\Biblioteca2\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.csproj.ResolveComReference.cache
+C:\Users\LENOVO\Desktop\Biblioteca2\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.exe
+C:\Users\LENOVO\Desktop\Biblioteca2\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.pdb
+C:\Users\LENOVO\Desktop\Biblioteca2\Biblioteca2\Biblioteca2\bin\Debug\Biblioteca2.exe
+C:\Users\LENOVO\Desktop\Biblioteca2\Biblioteca2\Biblioteca2\bin\Debug\Biblioteca2.pdb
+C:\Users\LENOVO\Desktop\Biblioteca2\Biblioteca2\Biblioteca2\bin\Debug\itextsharp.xml
+C:\Users\LENOVO\Desktop\Biblioteca2\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Biblioteca2\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.frmPrincipal.resources
+C:\Users\LENOVO\Desktop\Biblioteca2\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.Form2.resources
+C:\Users\LENOVO\Desktop\Biblioteca2\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Biblioteca2\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Biblioteca3\Biblioteca2\Biblioteca2\bin\Debug\Biblioteca2.exe
+C:\Users\LENOVO\Desktop\Biblioteca3\Biblioteca2\Biblioteca2\bin\Debug\Biblioteca2.pdb
+C:\Users\LENOVO\Desktop\Biblioteca3\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.csproj.ResolveComReference.cache
+C:\Users\LENOVO\Desktop\Biblioteca3\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.frmPrincipal.resources
+C:\Users\LENOVO\Desktop\Biblioteca3\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.Form2.resources
+C:\Users\LENOVO\Desktop\Biblioteca3\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Biblioteca3\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Biblioteca3\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.exe
+C:\Users\LENOVO\Desktop\Biblioteca3\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.pdb
+C:\Users\LENOVO\Desktop\Biblioteca3\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.csprojResolveAssemblyReference.cache
+C:\Users\claua\Desktop\Biblioteca3\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.exe
+C:\Users\claua\Desktop\Biblioteca3\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.pdb
+C:\Users\claua\Desktop\Biblioteca3\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.csprojResolveAssemblyReference.cache
+C:\Users\claua\Desktop\Biblioteca3\Biblioteca2\Biblioteca2\bin\Debug\Biblioteca2.exe
+C:\Users\claua\Desktop\Biblioteca3\Biblioteca2\Biblioteca2\bin\Debug\Biblioteca2.pdb
+C:\Users\claua\Desktop\Biblioteca3\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.frmPrincipal.resources
+C:\Users\claua\Desktop\Biblioteca3\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.Form2.resources
+C:\Users\claua\Desktop\Biblioteca3\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.Properties.Resources.resources
+C:\Users\claua\Desktop\Biblioteca3\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.csproj.GenerateResource.Cache
+C:\Users\claua\Desktop\Biblioteca3\Biblioteca2\Biblioteca2\bin\Debug\Biblioteca2.exe.config
+C:\Users\claua\Desktop\Biblioteca3_prueba\Biblioteca2\Biblioteca2\bin\Debug\Biblioteca2.exe.config
+C:\Users\claua\Desktop\Biblioteca3_prueba\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.exe
+C:\Users\claua\Desktop\Biblioteca3_prueba\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.pdb
+C:\Users\claua\Desktop\Biblioteca3_prueba\Biblioteca2\Biblioteca2\bin\Debug\Biblioteca2.exe
+C:\Users\claua\Desktop\Biblioteca3_prueba\Biblioteca2\Biblioteca2\bin\Debug\Biblioteca2.pdb
+C:\Users\claua\Desktop\Biblioteca3_prueba\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.csprojResolveAssemblyReference.cache
+C:\Users\claua\Desktop\Biblioteca3_prueba\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.frmPrincipal.resources
+C:\Users\claua\Desktop\Biblioteca3_prueba\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.Form2.resources
+C:\Users\claua\Desktop\Biblioteca3_prueba\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.Properties.Resources.resources
+C:\Users\claua\Desktop\Biblioteca3_prueba\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.csproj.GenerateResource.Cache
+C:\Users\claua\Desktop\Biblioteca3 V2\Biblioteca2\Biblioteca2\bin\Debug\Biblioteca2.exe.config
+C:\Users\claua\Desktop\Biblioteca3 V2\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.exe
+C:\Users\claua\Desktop\Biblioteca3 V2\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.pdb
+C:\Users\claua\Desktop\Biblioteca3 V2\Biblioteca2\Biblioteca2\bin\Debug\Biblioteca2.exe
+C:\Users\claua\Desktop\Biblioteca3 V2\Biblioteca2\Biblioteca2\bin\Debug\Biblioteca2.pdb
+C:\Users\claua\Desktop\Biblioteca3 V2\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.csprojResolveAssemblyReference.cache
+C:\Users\claua\Desktop\Biblioteca3 V2\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.frmPrincipal.resources
+C:\Users\claua\Desktop\Biblioteca3 V2\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.Form2.resources
+C:\Users\claua\Desktop\Biblioteca3 V2\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.Properties.Resources.resources
+C:\Users\claua\Desktop\Biblioteca3 V2\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.csproj.GenerateResource.Cache
+C:\Users\claua\Desktop\Biblioteca3 V2 (prueba)\Biblioteca2\Biblioteca2\bin\Debug\Biblioteca2.exe.config
+C:\Users\claua\Desktop\Biblioteca3 V2 (prueba)\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.exe
+C:\Users\claua\Desktop\Biblioteca3 V2 (prueba)\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.pdb
+C:\Users\claua\Desktop\Biblioteca3 V2 (prueba)\Biblioteca2\Biblioteca2\bin\Debug\Biblioteca2.exe
+C:\Users\claua\Desktop\Biblioteca3 V2 (prueba)\Biblioteca2\Biblioteca2\bin\Debug\Biblioteca2.pdb
+C:\Users\claua\Desktop\Biblioteca3 V2 (prueba)\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.csprojResolveAssemblyReference.cache
+C:\Users\claua\Desktop\Biblioteca3 V2 (prueba)\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.frmPrincipal.resources
+C:\Users\claua\Desktop\Biblioteca3 V2 (prueba)\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.Form2.resources
+C:\Users\claua\Desktop\Biblioteca3 V2 (prueba)\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.Properties.Resources.resources
+C:\Users\claua\Desktop\Biblioteca3 V2 (prueba)\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.csproj.GenerateResource.Cache
+C:\Users\claua\Desktop\Biblioteca3_V2\Biblioteca2\Biblioteca2\bin\Debug\Biblioteca2.exe.config
+C:\Users\claua\Desktop\Biblioteca3_V2\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.exe
+C:\Users\claua\Desktop\Biblioteca3_V2\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.pdb
+C:\Users\claua\Desktop\Biblioteca3_V2\Biblioteca2\Biblioteca2\bin\Debug\Biblioteca2.exe
+C:\Users\claua\Desktop\Biblioteca3_V2\Biblioteca2\Biblioteca2\bin\Debug\Biblioteca2.pdb
+C:\Users\claua\Desktop\Biblioteca3_V2\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.csprojResolveAssemblyReference.cache
+C:\Users\claua\Desktop\Biblioteca3_V2\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.frmPrincipal.resources
+C:\Users\claua\Desktop\Biblioteca3_V2\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.Form2.resources
+C:\Users\claua\Desktop\Biblioteca3_V2\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.Properties.Resources.resources
+C:\Users\claua\Desktop\Biblioteca3_V2\Biblioteca2\Biblioteca2\obj\x86\Debug\Biblioteca2.csproj.GenerateResource.Cache
